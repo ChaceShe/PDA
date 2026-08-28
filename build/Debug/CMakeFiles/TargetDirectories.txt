@@ -1,0 +1,6 @@
+E:/PDA/build/Debug/CMakeFiles/PDA.dir
+E:/PDA/build/Debug/CMakeFiles/edit_cache.dir
+E:/PDA/build/Debug/CMakeFiles/rebuild_cache.dir
+E:/PDA/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+E:/PDA/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+E:/PDA/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
